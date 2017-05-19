@@ -1,6 +1,9 @@
 package Ozlympics;
 
-
+/*
+ * Seby Tom
+ * 
+ */
 	public class Running extends GameItem {
 		
 	private	int minTime = 10;

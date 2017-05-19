@@ -1,5 +1,11 @@
 package Ozlympics;
 
+/*
+ * Seby Tom
+ * 
+ */
+
+
 
 	/*		GameFullException
 	 * 			Exception throws when user selects more than 8 Participants

@@ -1,6 +1,9 @@
 package Ozlympics;
 
-
+/*
+ * Harmanak Singh
+ * 
+ */
 	
 	public abstract class GameItem implements Game{
 

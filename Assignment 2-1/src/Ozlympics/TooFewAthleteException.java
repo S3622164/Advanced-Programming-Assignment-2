@@ -1,5 +1,10 @@
 package Ozlympics;
 
+/*
+ * Seby Tom
+ */
+
+
 /*		TooFewAthleteException
  * 			Exception throws when user selects less than 4 Participants
  */

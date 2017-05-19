@@ -1,4 +1,10 @@
 package Ozlympics;
+
+/*
+ * Harmanak Singh
+ * 
+ */
+
 import java.io.*;
 import java.util.ArrayList;
 public class FileConnection {

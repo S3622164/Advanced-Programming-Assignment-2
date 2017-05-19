@@ -1,5 +1,11 @@
 package Ozlympics;
 
+/*
+ * Seby Tom
+ * 
+ */
+
+
 public class  Cycling extends GameItem  {
 	
 	//Implementing Inheritance

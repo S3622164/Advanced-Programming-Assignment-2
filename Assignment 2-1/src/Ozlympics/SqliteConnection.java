@@ -12,6 +12,10 @@ import java.sql.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 
+/*
+ * Seby Tom
+ * 
+ */
 
 public class SqliteConnection {
 	

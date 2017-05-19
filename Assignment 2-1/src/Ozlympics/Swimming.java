@@ -1,5 +1,11 @@
 package Ozlympics;
 
+/*
+ * 
+ * Harmanak Singh
+ */
+
+
 //Class Inherited to gameItem
 
 public class Swimming extends GameItem {

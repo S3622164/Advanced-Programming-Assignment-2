@@ -1,3 +1,9 @@
+/*
+ * Seby Tom
+ * 
+ */
+
+
 package Ozlympics;
 
 import javafx.stage.Stage;
